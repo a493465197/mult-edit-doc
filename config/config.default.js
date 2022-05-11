@@ -51,7 +51,7 @@ module.exports = appInfo => {
   // }
   config.mongoose = {
     client:{
-    url:'mongodb://124.221.66.29:27017/multEdit',
+    url:'mongodb://root:multEditzraipi@124.221.66.29:27017/multEdit',
     options:{}
     }
   }
